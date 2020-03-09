@@ -13,7 +13,7 @@ public class ASumar {
 	}
 	/**
 	 * Método que devuelve un String con el resultado de la operación
-	 * @return
+	 * @return String con el resultado de la operación
 	 */
 	public String mostrar() {
 		String numero = valor_inicial;
